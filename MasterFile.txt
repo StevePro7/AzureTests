@@ -1,3 +1,4 @@
 Master file
 this is the new file on master
 add text1
+add text2
